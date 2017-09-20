@@ -1,7 +1,8 @@
 Cards = [
   //{title: "Donación Topos", description: "Los Topos son una asosiación de rescatistas indepe…tencilios necesarios para el rescate de personas.", type: "Monetaria", location: "Todo el mundo.", link: "https://twitter.com/topos/status/908000616575680512"},
   {title: "Donación Topos", description: "Los Topos son una asociación de rescatistas independientes. Tu ayuda provee de los utensilios necesarios para el rescate de personas.", type: "Monetaria", location: "Todo el mundo.", link: "https://twitter.com/topos/status/908000616575680512"},
-  {title: "Donación Cruz Roja", description: "Dona a la Cruz Roja. Ellos brindan servicio médico gratuito.", type: "Monetaria", location: "Todo el mundo.", link: "https://cruzrojadonaciones.org/"},
+  {title: "Donación Cruz Roja", description: "Santander abrió una cuenta especial para recibir donativos que apoyarán a las familias afectadas", type: "Monetaria", location: "Todo México", link: "https://www.facebook.com/SantanderMex/photos/a.209477932416835.57097.160385187326110/1646623528702261/?type=3&theater"},
+  {title: "Donación Banco Santander", description: "Dona a la Cruz Roja. Ellos brindan servicio médico gratuito.", type: "Monetaria", location: "Todo el mundo.", link: "https://cruzrojadonaciones.org/"},
   {title: "Acopio Estadio BBVA", description: "Acopio de viveres en el estadio de los rayados BBVA.", type: "Víveres", location: "Monterrey", link: "https://twitter.com/lucho_ibarraS/status/910306690045759488/photo/1"},
   {title: "Acopio UNAM", description: "Acopio de viveres en la UNAM.", type: "Víveres", location: "CDMX", link: "https://twitter.com/UNAM_MX/status/910289369122172928"},
   {title: "Acopio Tijuana", description: "Acopio de viveres en diferentes puntos de Tijuana..", type: "Víveres", location: "Tijuana", link: "https://twitter.com/paolapl1/status/910315456866672640"},
@@ -46,6 +47,4 @@ Cards = [
   {title: "Una Mano por México", description: "Fondo de apoyo para las personas damnificadas en una primera etapa y posteriormente para trabajos de reconstrucción.", type: "Monetaria", location: "Todo el mundo.", link: "https://donadora.mx/projects/una-mano-a-mexico-levantemos-juntos-la-ciudad"},
   {title: "Donación desde Reino Unido (justgiving)", description: "Donaciones en libras, para quienes están en Reino Unido. Van dirigidas a grupo 'topos'", type: "Monetaria", location: "Reino Unido", link: "https://www.justgiving.com/crowdfunding/letshelpmexicouk"},
   {title: "Acopio Hermossillo", description: "Donaciones de víveres, medicamentos y utensilios en Hermossillo sonora.", type: "Varia", location: "Hermossillo", link: "https://twitter.com/delvallecolosio/status/910498620318744576"},
-  {title: "Acopio Puebla", description: "Donaciones de víveres, medicamentos y utensilios en Cholula, Puebla.", type: "Varia", location: "Puebla", link: "https://www.facebook.com/CholulaDIF/posts/1951410691778618"},
-  {title: "Revisión de Infraestructura", description: "Se buscan Arquitectos, Ingenieros Civiles, Esutrucritas y personal con maquinaria para revisión.", type: "Asesoría", location: "CDMX", link: "https://twitter.com/MImediomaraton/status/910502011161821185"},
 ];
